@@ -1,4 +1,4 @@
-                                           **Zepto SQL Data Analysis Project**
+                                           Zepto SQL Data Analysis Project
 ________________________________________________________________________________________________________________________________________
 📌 Project Overview
 
