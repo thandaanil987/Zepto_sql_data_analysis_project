@@ -1,6 +1,6 @@
                                            Zepto SQL Data Analysis Project
 ________________________________________________________________________________________________________________________________________
-📌 Project Overview
+📌 Project Overview :
 
 This project analyzes Zepto product data to derive business insights related to pricing, discounts, inventory management, and revenue estimation using MySQL.
 
