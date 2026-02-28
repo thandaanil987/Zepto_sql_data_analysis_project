@@ -1,5 +1,5 @@
- Zepto SQL Data Analysis Project
-___________________________________
+                                           **Zepto SQL Data Analysis Project**
+________________________________________________________________________________________________________________________________________
 📌 Project Overview
 
 This project analyzes Zepto product data to derive business insights related to pricing, discounts, inventory management, and revenue estimation using MySQL.
@@ -8,7 +8,7 @@ This project analyzes Zepto product data to derive business insights related to 
 - MySQL
 - MySQL Workbench
 - Excel
-- 
+   
 📂 Dataset Columns :
 SKU ID
 Category
